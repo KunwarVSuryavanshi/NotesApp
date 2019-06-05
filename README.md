@@ -1,5 +1,5 @@
 # NotesApp
-App to store/create notes.
+Simple app for making notes.
 
 
 Left: Theme, Account
